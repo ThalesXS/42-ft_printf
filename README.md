@@ -22,7 +22,7 @@
 
 ``make bonus`` to compile with bonus functions.
 
-> [!ATTENTION]
+> [!IMPORTANT]
 > Since it's not easy to implement the bonuses after the completion of the mandatory part, both `make` and `make bonus` will compile the same files and result in the project with its bonuses.
 
 ## Restrictions
