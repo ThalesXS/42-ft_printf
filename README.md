@@ -10,7 +10,7 @@
 
 * Conversions: `%`, `c`, `s`, `p`, `i`, `d`, `u`, `x`, `X`.
 
-&nbsp; And for it's bonuses, we must implement the following flags and options:
+&nbsp; For the bonus we must implement the following flags and options:
 
 * Flags: `#`, `+` and `(space)`.
 * Options: `-`, `0`, `.`, `*` and `width`.
