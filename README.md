@@ -31,5 +31,5 @@
 * `write()`.
 * `malloc()`.
 * `free()`.
-* Our own `libft` library (only functions that respect the above restrictions are allowed).
+* [Our own](https://github.com/ThalesXS/42-libft) `libft` library (only functions that respect the above restrictions are allowed).
 * All functions from the `vararg.h` library.
